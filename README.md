@@ -57,7 +57,7 @@ Aplikasi ini juga dilengkapi dengan **fitur manajemen data dan visualisasi grafi
 4. Import database:
   - Buka phpMyAdmin.
   - Buat database baru (misalnya silap_db).
-  - Import file SQL dari folder /database/silap.sql.
+  - Import file SQL dari folder /silap_db.sql.
 5. Akses aplikasi melalui browser:
   ```bash
   http://localhost/silap
